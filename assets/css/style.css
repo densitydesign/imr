@@ -1,0 +1,120 @@
+* {
+	font-size:13px;
+	font-family: 'Open Sans', sans-serif;
+}
+
+body {
+	background-color: #f8f8f8;
+}
+
+#main {
+	margin-top:70px;
+}
+
+#vis {
+	height:1000px;
+	background: #f8f8f8;
+	padding:10px;
+	text-align:center;
+}
+
+#choose-year-container {
+	padding-bottom: 20px;
+	border-bottom: 1px solid #DDD;
+
+}
+
+#choose-year {
+	text-align:center;
+	display: inline-table;
+}
+
+#choose-year .active {
+	font-weight:bold;
+}
+
+.btn-time {
+	display: inline-table;
+}
+
+.btn-expand {
+	margin-top:10px;
+}
+
+
+/* Vis */
+
+/* Region */
+
+.region-base {
+	fill: none;
+	stroke : #ddd;
+	opacity: 1;
+}
+
+.region-population {
+	fill: #6EBC3B;
+	cursor:pointer;
+	
+}
+
+.region-population:hover {
+	fill: #387212;
+}
+
+.region-stock {
+	fill: #45A027;
+}
+
+.region-title {
+	fill: #666;
+	text-shadow: 0px 1px white;
+	font-weight: 300;
+	font-size: 16px;
+	cursor:pointer;
+}
+
+.region-subtitle {
+	fill: #6EBC3B;
+	text-shadow: 0px 1px white;
+	font-weight: 300;
+	font-size: 13px;
+}
+
+.region-trigger {
+	fill: #f4f4f4;
+	fill-opacity:0;
+	stroke-width:8px;
+	stroke: #ddd;
+	opacity:0;
+}
+
+/* FLow */
+
+path.flow {
+	fill:none;
+	stroke-opacity:1;
+}
+
+path.exchange:hover {
+	opacity:1;
+}
+
+.flow-title {
+	fill: #999;
+	text-shadow: 0px 1px white;
+	font-weight: 300;
+	font-size: 18px;	
+}
+
+div.tooltip {
+  position: absolute;
+  text-align: center;
+  padding: 8px 10px;
+  font-size:13px;
+  color: white;
+  background: #222;
+  border-radius: 4px;
+  pointer-events: none;
+  margin-top:20px;
+}

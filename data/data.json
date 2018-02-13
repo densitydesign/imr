@@ -1,0 +1,339 @@
+{
+    "data": {
+        "1750": {
+	    "parc des portes": {
+                "population": 10000,
+                "consumption": 0,
+                "richness": 0.01,
+                "sky": 989.35,
+                "subsoil": 4746.17,
+                "exchange": {
+                    "paris": null,
+                    "france": -10.07520337,
+                    "europe": -0.712273193,
+                    "world": -3796.210311
+                }
+            },
+            "paris": {
+                "population": 576639,
+                "consumption": 0,
+                "richness": 0.05,
+                "sky": 9898.35,
+                "subsoil": 4746.17,
+                "exchange": {
+                    "paris": null,
+                    "france": -10.07520337,
+                    "europe": -0.712273193,
+                    "world": -3796.210311
+                }
+            },
+            "france": {
+                "population": 24500000,
+                "consumption": 0,
+                "richness": 3.79,
+                "sky": 59672910,
+                "subsoil": 24860880,
+                "exchange": {
+                    "paris": 0.834353979,
+                    "france": null,
+                    "europe": 46.73346656,
+                    "world": 18.84850264
+                }
+            },
+            "europe": {
+                "population": 140000000,
+                "consumption": 154.96,
+                "richness": 83.19,
+                "sky": 612412200,
+                "subsoil": 179450352,
+                "exchange": {
+                    "paris": 1.002583048,
+                    "france": 17.59732678,
+                    "europe": null,
+                    "world": 261.123332
+                }
+            },
+            "world": {
+                "population": 650000000,
+                "consumption": 403.06,
+                "richness": 83.14,
+                "sky": 130942675440,
+                "subsoil": 23052816000,
+                "exchange": {
+                    "paris": 34.02046353,
+                    "france": 272.5278255,
+                    "europe": 1329.493625,
+                    "world": null
+                }
+            }
+        },
+        "1850": {
+ 		"parc des portes": {
+                "population": 10000,
+                "consumption": 0,
+                "richness": 0.01,
+                "sky": 989.35,
+                "subsoil": 4746.17,
+                "exchange": {
+                    "paris": null,
+                    "france": -10.07520337,
+                    "europe": -0.712273193,
+                    "world": -3796.210311
+                }
+            },
+            "paris": {
+                "population": 1053262,
+                "consumption": 0,
+                "richness": 0.16,
+                "sky": 9898.35,
+                "subsoil": 4746.17,
+                "exchange": {
+                    "paris": null,
+                    "france": -0.9999,
+                    "europe": -0.999,
+                    "world": -2530.790208
+                }
+            },
+            "france": {
+                "population": 36472000,
+                "consumption": 0.02,
+                "richness": 11.9,
+                "sky": 59672910,
+                "subsoil": 24860880,
+                "exchange": {
+                    "paris": 0.813702678,
+                    "france": null,
+                    "europe": 4.638,
+                    "world": 26.436
+                }
+            },
+            "europe": {
+                "population": 266000000,
+                "consumption": 401.94,
+                "richness": 181.5,
+                "sky": 612412200,
+                "subsoil": 179450352,
+                "exchange": {
+                    "paris": 0.669365975,
+                    "france": 17.161771,
+                    "europe": null,
+                    "world": 440.008
+                }
+            },
+            "world": {
+                "population": 1300000000,
+                "consumption": 1045.43,
+                "richness": 311.89,
+                "sky": 130942675440,
+                "subsoil": 23052816000,
+                "exchange": {
+                    "paris": 20.42416269,
+                    "france": 162.732,
+                    "europe": 1296.587,
+                    "world": null
+                }
+            }
+        },
+        "1950": {
+             "parc des portes": {
+                "population": 10000,
+                "consumption": 0,
+                "richness": 0.01,
+                "sky": 989.35,
+                "subsoil": 4746.17,
+                "exchange": {
+                    "paris": null,
+                    "france": -10.07520337,
+                    "europe": -0.712273193,
+                    "world": -3796.210311
+                }
+            },
+		"paris": {
+                "population": 2850189,
+                "consumption": 0.99,
+                "richness": 0.52,
+                "sky": 9898.35,
+                "subsoil": 4746.17,
+                "exchange": {
+                    "paris": null,
+                    "france": 0.001007621,
+                    "europe": 0.000712986,
+                    "world": -1265.370104
+                }
+            },
+            "france": {
+                "population": 41647258,
+                "consumption": 10.62,
+                "richness": 37.4,
+                "sky": 59672910,
+                "subsoil": 24860880,
+                "exchange": {
+                    "paris": 1.187993174,
+                    "france": null,
+                    "europe": 56.80967755,
+                    "world": 19.56148882
+                }
+            },
+            "europe": {
+                "population": 547287000,
+                "consumption": 1042.53,
+                "richness": 396,
+                "sky": 612412200,
+                "subsoil": 179450352,
+                "exchange": {
+                    "paris": 1.127920595,
+                    "france": 18.6227062,
+                    "europe": null,
+                    "world": 261.7167833
+                }
+            },
+            "world": {
+                "population": 2519000000,
+                "consumption": 2711.56,
+                "richness": 1170,
+                "sky": 130942675440,
+                "subsoil": 23052816000,
+                "exchange": {
+                    "paris": 34.41590189,
+                    "france": 274.2128837,
+                    "europe": 1330.519004,
+                    "world": null
+                }
+            }
+        },
+        "2000": {
+ "parc des portes": {
+                "population": 10,
+                "consumption": 0,
+                "richness": 0.01,
+                "sky": 989.35,
+                "subsoil": 4746.17,
+                "exchange": {
+                    "paris": null,
+                    "france": -10.07520337,
+                    "europe": -0.712273193,
+                    "world": -3796.210311
+                }
+            },
+            "paris": {
+                "population": 2125246,
+                "consumption": 24.6,
+                "richness": 1.63,
+                "sky": 9898.35,
+                "subsoil": 4746.17,
+                "exchange": {
+                    "paris": null,
+                    "france": 0.0001,
+                    "europe": 0.001,
+                    "world": 0.05
+                }
+            },
+            "france": {
+                "population": 58858000,
+                "consumption": 263,
+                "richness": 117.5,
+                "sky": 59672910,
+                "subsoil": 24860880,
+                "exchange": {
+                    "paris": 1.158588861,
+                    "france": null,
+                    "europe": 5.638,
+                    "world": 27.436
+                }
+            },
+            "europe": {
+                "population": 726777000,
+                "consumption": 1679,
+                "richness": 864,
+                "sky": 612412200,
+                "subsoil": 179450352,
+                "exchange": {
+                    "paris": 0.747945447,
+                    "france": 18.161771,
+                    "europe": null,
+                    "world": 441.008
+                }
+            },
+            "world": {
+                "population": 6085000000,
+                "consumption": 4367,
+                "richness": 4389,
+                "sky": 130942675440,
+                "subsoil": 23052816000,
+                "exchange": {
+                    "paris": 20.66001572,
+                    "france": 163.732,
+                    "europe": 1297.587,
+                    "world": null
+                }
+            }
+        },
+        "2050": {
+ "parc des portes": {
+                "population": 10000,
+                "consumption": 0,
+                "richness": 0.01,
+                "sky": 989.35,
+                "subsoil": 4746.17,
+                "exchange": {
+                    "paris": null,
+                    "france": -10.07520337,
+                    "europe": -0.712273193,
+                    "world": -3796.210311
+                }
+            },
+            "paris": {
+                "population": 3143338.37,
+                "consumption": 20.06,
+                "richness": 5.11,
+                "sky": 9898.35,
+                "subsoil": 4746.17,
+                "exchange": {
+                    "paris": null,
+                    "france": 9924370,
+                    "europe": 38.48040928,
+                    "world": 1265.470104
+                }
+            },
+            "france": {
+                "population": 87053738.7,
+                "consumption": 214.44,
+                "richness": 369.15,
+                "sky": 59672910,
+                "subsoil": 24860880,
+                "exchange": {
+                    "paris": 1.129912342,
+                    "france": null,
+                    "europe": 0.559535723,
+                    "world": 38.48040928
+                }
+            },
+            "europe": {
+                "population": 1074937222.68,
+                "consumption": 1596.71,
+                "richness": 1885.09,
+                "sky": 612412200,
+                "subsoil": 179450352,
+                "exchange": {
+                    "paris": 1.260331576,
+                    "france": 17.71224452,
+                    "europe": null,
+                    "world": 743.1241269
+                }
+            },
+            "world": {
+                "population": 9000000000,
+                "consumption": 26113.4,
+                "richness": 16464.38,
+                "sky": 130942675440,
+                "subsoil": 23052816000,
+                "exchange": {
+                    "paris": 34.81332798,
+                    "france": 275.8979419,
+                    "europe": 1265.470104,
+                    "world": null
+                }
+            }
+        }
+    }
+}

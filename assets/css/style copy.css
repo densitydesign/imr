@@ -1,0 +1,60 @@
+* {
+	font-size:13px;
+}
+
+
+#main {
+	margin-top:70px;
+}
+
+#vis {
+	height:800px;
+	background: #f4f4f4;
+	padding:10px;
+	text-align:center;
+}
+
+#choose-year {
+	text-align:center;
+	padding-bottom: 20px;
+	border-bottom: 1px solid #DDD;
+}
+
+#choose-year .active {
+	font-weight:bold;
+}
+
+g.arc {
+	cursor:pointer;
+}
+
+g.arc path {
+	fill: #93C666;
+}
+
+g.arc path:hover {
+	fill:#79A84C;
+}
+
+path.flow {
+	fill:none;
+	stroke-opacity:.8;
+	stroke: #ccc;
+}
+
+.title {
+	font-size:15px;
+}
+
+.big-title {
+	font-size:18px;
+	font-weight:bold;
+}
+
+.level-background {
+
+	fill: none;
+	stroke: #888;
+/*	stroke-dasharray: 9, 5;*/
+	stroke-opacity: .2;
+}
